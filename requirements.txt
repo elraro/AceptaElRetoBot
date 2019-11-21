@@ -4,4 +4,4 @@ glob2==0.5
 lxml==3.7.2
 requests==2.12.5
 six==1.10.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
